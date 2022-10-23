@@ -21,10 +21,10 @@ class AtmController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index(Request  $request)
     {
 
-        if ($limit = \request('limit')) {
+        if ($limit = $request->get('limit')) {
             return $this->atm->allWithLimit($limit);
         }
         return $this->atm->all();
