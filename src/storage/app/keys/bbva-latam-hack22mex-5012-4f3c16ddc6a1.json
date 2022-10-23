@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bbva-latam-hack22mex-5012",
+  "private_key_id": "4f3c16ddc6a1b6a1cf14bcb1a3a132418bd91e73",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD+QINz0qHPi/ZA\ni0tvrpqJV5jmkmenZfqRdNQDowaLt0dMX1S4r4phlyZC9G2Pf6cuO/eOKAyOVmyQ\nPwz/6ZwtYGshR8UkvBk6RDf9fhaU5P6hIX/4ptlTzsACPW/FwVMdnf/P5FKRZSDh\nuFVnDYk5VE/Us6cI8iZHxxOzaaHFgvXA+l1p1+xDR0EpEqNDwr96KaWn2Ee3VPdZ\nbMuyV6rtDVLTGk7OgeiEFVlMbpe+tDBYsRM2FFkKCf22k97ke6D467bnl9iRgRbR\nuw+o1RWPfS+aiHhGz1OIsispVgXt8tl3h6aUQY6FEF3/a6Xd2Y0pFYHtntOF6nZi\nhR1TSXG3AgMBAAECggEAHWd3TGqBuC+8TP6kZ3LOqy+W8/jemqeFRlPik9ZuKAkM\nP92Ok3AJwFDrZeGVgiZbPqeaG7YErbl6WLxR/o6/4dI9fDMsA5xAC/2zvqdZvo01\nPYv9nCjVCDI9q9n7FpMjJPu5iAt52RgpqLEu1KTmHTE5Ak+8nkuS+HN3kyTrm/HX\nA03KtcYcH3h/ituqUxksgpSdN9FJ+JT93lbti07N3kKwHNZ3QS5sGdFrjk2rxPpV\nuLdkgipwPkMurHE/Ckh0/JNbxgnpvMUVg8FQ9WmbuoNvlllK0MGVaK0ok3JFx6D8\nlvmy8DMjOZMh26TaKA1muQwHMiKbu+nePnJrnu3WEQKBgQD/YeanBu0nOncNK5K4\nkWCZTNpsOHDgOwF652n6y4ASQ6ZZo+oZytgUiBRcM1jw0+jqNhRGmx4tGZY1gLSX\nWYmyPPtEg5mAbdNnWW8Gc52iA6oX0htjoCA6z6R5iShr9wkexJhsZVqizsodyT3s\nB7m0OjmvSYZ1+cr62JpA1HiMEwKBgQD+3emmR1P/MD4kykymWnKOFJerZ02VfjUj\n1u3yQ7btzxmdFO+fx/VO2oOiEdCoBWfy4CBIJomOeWCWkoLofYTn1Nq0rflDT2yr\nDPlCsVAukkUvXan+8VaNfTpqhJaUvmneRxbLEDsWbQkuK+jDD323+Zi8QNKca7Ye\nVCVhtSVwTQKBgDVNyuXL9U39zwGJubsaZO46c1CpSy4SQtHTYXR+a0HkquEE7ITr\nqMRITu+brBHAOVpBZWQDVn4VXBvYvFjm0G3KequnSC/dPIXSzfCryxgY6bTFHwBh\nWLjNxEe10CEQ0+9/G01srklTHi6vZWRRjHpIuOeUUiNnuu02rqOfdXXPAoGBAPOy\nqzxETcvfjDxPd5VFPO4gQJozb9r2z8cSN3mESAECGwK5Rxsn7qbUiDNLB5HxgWCZ\n8CQtPTCPXMz9ENFPW+r0+57yDzrOUiEIibq8oue1ExRkYi0VBObLjDTXzMgzfjV9\nEg1e2rDp13Jfp/QD9vkYX3P6I6hP0dcULJ5NwJutAoGBAIaFOVFWuxSrEgxkYcPh\nBgreFJyvcjlhQ2PcHBAH5OQUZjJgFCpyrmXLpqNA9MLy1Q2l3MWRtd8BMCk8yWNF\nSfZeq1q+SWMeLkD0s7LIcQDORClQL8RVkB0wx/y7+jgafeA0lNic1YU4DY+PIpfi\nkhOmPmr8qCc4XXd2JMj1ZDH2\n-----END PRIVATE KEY-----\n",
+  "client_email": "piratas@bbva-latam-hack22mex-5012.iam.gserviceaccount.com",
+  "client_id": "107449966389367528014",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/piratas%40bbva-latam-hack22mex-5012.iam.gserviceaccount.com"
+}
